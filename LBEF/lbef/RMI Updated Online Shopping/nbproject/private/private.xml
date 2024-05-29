@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/dao/LoginInterface.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/admin/ManageUsers.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/supplier/SupplierAccount.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/dao/PurchaseDaoImp.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/dao/ProductInterface.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/user/SignUp.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/admin/ManageSuppliers.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/dao/CategoryInterface.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/dao/UserDaoImp.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/dao/UserDao.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/dao/ExtraDAs.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/dao/PurchaseInterface.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/rmi/OSClient.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/user/UserDashboard.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/dao/SupplierInterface.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/connection/MyConnection.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/user/UserAccount.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/supplier/SupplierDashboard.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/rmi/OSServer.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/dao/LoginDaoImp.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/admin/SelectSupplier.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/user/Login.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/dao/SupplierDaoImp.java</file>
+            <file>file:/D:/RMI%20Updated%20Online%20Shopping/src/user/ForgotPassword.java</file>
+        </group>
+    </open-files>
+</project-private>
